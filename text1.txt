@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ljupce carot
 
+=======
+jas sum carce
+jas sakam voda
+omilno jadenje pizza
+>>>>>>> 257da9ee9cbb59d0b12668e3805056b23172a9be
